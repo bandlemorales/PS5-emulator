@@ -32,7 +32,7 @@ You must legally own any games you play through the emulator.
 | Gameplay |
 ![Banner](./banner5.png)
 
-| ![Gameplay](./screenshots/gameplay.png) | ![Settings](./banner2.png) | ![Controller](./screenshots/controller.png) |
+| ![Gameplay](./screenshots/gameplay.png) | ![Settings](./banner2.jpg) | ![Controller](./screenshots/controller.png) |
 
 ---
 
